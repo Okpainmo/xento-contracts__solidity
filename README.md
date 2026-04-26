@@ -1,6 +1,6 @@
 # Xento Contracts.
 
-Solidity Smart contracts for the Xento Dapp project.
+Solidity Smart contracts for the Xento project.
 
 ## Important commands.
 
